@@ -7,9 +7,6 @@ use everything I've learned so far about digital electronics and
 embedded C in one project I could see and touch, instead of another
 breadboard that gets torn down at the end of the semester.
 
-![clock photo placeholder](media/clock_photo.jpg)
-*(photo/gif of the assembled board goes here once it's soldered up)*
-
 ## What it does
 
 - Shows time as HH:MM:SS across 6 seven-segment digits
